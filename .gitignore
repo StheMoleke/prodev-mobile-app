@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# environment
+.env
